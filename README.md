@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/sandylaker?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandylaker&theme=vue&layout=default" alt="top langs" height="156"/></a></p>
